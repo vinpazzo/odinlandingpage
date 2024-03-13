@@ -1,2 +1,2 @@
 # odinlandingpage
-Odin Project Landing Pafe
+Odin Project Landing Page
